@@ -1,4 +1,4 @@
-# Belajar Rust
+# Belajar Rust Test
 Belajar rust dalam bahasa Indonesia, dasar-dasar dengan contoh
 
 - Cargo
